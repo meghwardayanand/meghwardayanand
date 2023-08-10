@@ -1,10 +1,12 @@
 ### Hi 👋, I am Dayanand
 
 
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayanand-ghelaro&theme=tokyonight" alt="mystreak"/>
+  <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dayanand-ghelaro&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayanand-ghelaro" alt="mystreak"/> -->
+  <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dayanand-ghelaro&show_icons=true&locale=en" /></p>
 </div>
+
 <!--
 **dayanandghelaro/dayanandghelaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
