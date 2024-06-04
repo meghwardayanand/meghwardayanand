@@ -2,9 +2,9 @@
 
 
 <div align="center">
-  <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dayanand-ghelaro&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+  <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=meghwardayanand&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayanand-ghelaro" alt="mystreak"/> -->
-  <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dayanand-ghelaro&show_icons=true&locale=en" /></p>
+  <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=meghwardayanand&show_icons=true&locale=en" /></p>
 </div>
 
 <!--
