@@ -1,10 +1,15 @@
 ### Hi 👋, I am Dayanand
 
-
-<div align="center">
+<div>
+  <h1 align="left">New Profile (username: meghwardayanand)</h1>
   <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=meghwardayanand&theme=tokyonight_duo" alt="7oSkaaa" /></p>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayanand-ghelaro" alt="mystreak"/> -->
   <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=meghwardayanand&show_icons=true&locale=en" /></p>
+</div>
+<div>
+  <h1 aligh="right">Old Profile (username: dayanandghelaro)</h1>
+  <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dayanandghelaro&theme=tokyonight_duo" alt="7oSkaaa" /></p>  
+  <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dayanandghelaro&show_icons=true&locale=en" /></p>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayanand-ghelaro" alt="mystreak"/> -->
 </div>
 
 <!--
