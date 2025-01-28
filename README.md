@@ -12,8 +12,9 @@
 
   </p>
   <p>
-      <img height="20%" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghwardayanand&show_icons=true&locale=en&layout=compact" />
+      <img height="100%" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghwardayanand&show_icons=true&locale=en&layout=compact" />
   </p>
+<br/>
 </div>
 
 ## Skills
